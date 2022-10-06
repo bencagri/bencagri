@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Craftsman
 --------------------
 
-I do create cool #Fintech projects with 12+ years of experience in coding and 4+ years of experience in industry.
+I do create cool #Fintech projects with 12+ years of experience in coding and 4+ years of experience in industry. Also developing blockchain apps in payment services.
 
 *   🌍  I'm based in Bucharest
 *   ✉️  You can contact me at [hi\[at\]bencagri.com](mailto:hi[at]bencagri.com)
