@@ -10,7 +10,9 @@ I do create cool #Fintech projects with 12+ years of experience in coding and 4+
 *   ✉️  You can contact me at [hi\[at\]bencagri.com](mailto:hi[at]bencagri.com)
 *   🚀  I'm currently working on [Token Payment Services](http://odero.ro)
 *   🧠  I'm learning low latency programming
-*   ⚡  shh.. Im batman.### Skills 
+*   ⚡  shh.. Im batman.
+
+### Skills 
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
