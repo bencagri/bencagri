@@ -2,7 +2,7 @@
 A Software Craftsman
 --------------------
 
-I do create cool #Fintech projects with 12+ years of experience in coding and 4+ years of experience in industry. Also developing blockchain apps in payment services.
+I do create cool #Fintech projects and blockchain apps in payment services with 12+ years of experience.
 
 *   🌍  I'm based in Bucharest
 *   ✉️  You can contact me at [hi\[at\]bencagri.com](mailto:hi[at]bencagri.com)
